@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Interlocking play modules</title>
+  <rect width="64" height="64" fill="#20211f"/>
+  <path d="M10 10H34V18H42V34H26V26H10Z" fill="#f2eddf"/>
+  <path d="M44 18H54V46H46V54H30V38H44Z" fill="#ca6338"/>
+  <path d="M10 30H22V38H26V54H10Z" fill="#858b73"/>
+</svg>

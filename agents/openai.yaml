@@ -1,0 +1,14 @@
+interface:
+  display_name: Design Replayable Social Games
+  short_description: Turn social game ideas into player-respecting tests
+  default_prompt: Use $design-replayable-social-games to assess my game and propose
+    one small, testable improvement to its first session and social replay value.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

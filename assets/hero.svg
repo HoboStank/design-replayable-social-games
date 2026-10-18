@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Design Replayable Social Games</title>
+  <desc id="desc">An angular workshop-style banner in charcoal, ivory and burnt orange. Three interlocking modules represent action, contribution and return. Made by madebyhobo.</desc>
+  <rect width="1200" height="480" fill="#20211f"/>
+  <path d="M0 0H1200V8H0Z" fill="#ca6338"/>
+  <g stroke="#373932" stroke-width="1">
+    <path d="M48 40V440M1152 40V440M48 394H1152"/>
+    <path d="M776 48V358M840 48V358M904 48V358M968 48V358M1032 48V358M1096 48V358M760 102H1128M760 166H1128M760 230H1128M760 294H1128"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#f2eddf">
+    <text x="64" y="78" font-size="20" font-weight="700" letter-spacing="3">MADEBYHOBO / GAME DESIGN</text>
+    <text x="60" y="158" font-size="58" font-weight="700" letter-spacing="-2">Design Replayable</text>
+    <text x="60" y="224" font-size="58" font-weight="700" letter-spacing="-2">Social Games</text>
+    <text x="64" y="283" font-size="24" fill="#c8c8bb">Clear first actions. Useful cooperation.</text>
+    <text x="64" y="317" font-size="24" fill="#c8c8bb">Reasons to return.</text>
+    <text x="64" y="435" font-size="18" font-weight="700" letter-spacing="2">ONE PLAYABLE EXPERIMENT AT A TIME</text>
+    <text x="1136" y="435" text-anchor="end" font-size="18" fill="#c8c8bb">A REUSABLE AI SKILL</text>
+  </g>
+  <g stroke="#20211f" stroke-width="8" stroke-linejoin="miter">
+    <path d="M808 90H944V130H984V226H904V186H808Z" fill="#f2eddf"/>
+    <path d="M984 130H1096V266H1056V306H960V226H984Z" fill="#ca6338"/>
+    <path d="M824 226H904V266H960V306H1000V354H824Z" fill="#858b73"/>
+  </g>
+  <g fill="none" stroke="#20211f" stroke-width="5">
+    <path d="M844 142H896M880 126L896 142L880 158"/>
+    <path d="M1040 174V226M1024 210L1040 226L1056 210"/>
+    <path d="M916 310H864M880 294L864 310L880 326"/>
+  </g>
+  <rect x="64" y="349" width="56" height="6" fill="#ca6338"/>
+</svg>
